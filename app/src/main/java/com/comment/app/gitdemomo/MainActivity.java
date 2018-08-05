@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         String s = "tag21 ";
         String s2 = "tag21 ";
 
+
+        System.out.println("22");
+
     }
 }
