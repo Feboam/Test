@@ -9,8 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String s = "tag31";
-        String s2 = "tag31";
+        String s = "tag31  ";
+        String s2 = "tag31  ";
 
 
         System.out.println("22");
